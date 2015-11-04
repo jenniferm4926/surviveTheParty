@@ -1,0 +1,1 @@
+You sigh, typical party goer your bestfriend is. You decide you're not in the mood for loud music and random stranger's stepping on your feet. Po 
