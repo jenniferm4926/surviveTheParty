@@ -1,4 +1,9 @@
-#### You accept the invite to the party! Your friend is excited to take you and you head home when the bell rings.
+#### You accept the invite to the party!
+
+ * _You_: "I got nothing better to do, so, I guess so."
+ * _Bestfriend_: "Awesome! Pick you up at 8."
+
+#### You head into the class just in time, before you get hollered at.
 ____
 #### You arrive home and lay your bookbag on top of your bed, taking a quick rest before you head out for the party, but your significant other calls you. You answer:
 
