@@ -6,6 +6,6 @@ _You_: Pft. You're one to talk..
 She says you owe her one anyways, letting alittle loose won't kill you apparently. She says she needs an answer now... What do you choose?  
 
 _You_: Um...
-  
+  [](Netflix.jpg)
   [Tell her no means no, your favorite actor is about to die...](denyInvite.md)  
   [You're getting bored, you tell her to give you a few to get ready](acceptinvite.md)
