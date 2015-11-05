@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### You sigh, again, you know that person just wants the best for you, so you might as well just stay home and just watch your show instead.
 ----
  * _You_: "I guess you're right."
