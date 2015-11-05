@@ -1,6 +1,6 @@
 #### It's friday morning, you're in class when your phone starts vibrating and the screen lights up. You look at the screen and it says "Bestfriend" You ask to get a drink of water.
-----
-! [Phone ring pic](phone.png)
+----  
+  ![Phone ring pic](phone.png)
 #### You stare at the phone for a minute:
 ---
 _You_: "What do you wantttttt?"
