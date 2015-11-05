@@ -17,5 +17,5 @@
  * _You_: "Sneak in..?"
  * _Bestfriend_: "Yep, are you down, again?"
  
-["You got a million other friends you can bring, I'll stay here, Thank You"](noSneakIn.)   
+["You got a million other friends you can bring, I'll stay here, Thank You"](noSneakIn.md)   
 ["I'm in."](sneakIn.md)

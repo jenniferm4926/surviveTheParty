@@ -12,6 +12,6 @@
 
 #### Since you stood home, you have nothing else to do for the interaction but enjoy the show, would you like to return back to the question and answer it for a better experience?
 
-[Yes](acceptinvite.md)
+[Yes](denyInvite.md)
 
 [No](README.md)

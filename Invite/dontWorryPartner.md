@@ -1,4 +1,18 @@
-You tell them you're going because you've had a stressful week and want to go and burn off steam. You say that it's just a party and there's nothing wrong with having  a little fun. You promise to be extra careful and not get into any problems. Your partner decides that they can't control you and tell you once more to be careful. You're friend chooses to call just as you end the call. She say's shes on her way and to wait outside for her arrival.
+#### You adjust yourself in the seat before saying..
+----
+ * _You_: "Hey, I'll be alright, It's not like I'm dying or anything"
+ * _Girlfriend/Boyfriend_: "You sure I can trust you?"
+ * _You_: "You dont trust me?"
+ * _Girlfriend/Boyfriend_: "It's not that I dont trust you, I don't trust other people around you, you know?"
+ * _You_: "No, no I dont know."
+ * _Girlfriend/Boyfriend_: "Have fun, **yourname**"
+ * _You_: "W-"
+
+---
+#### Awkward. But you go anyway, as your friend comes and picks you up, your friend speeds to the party as you assure to yourself that your not gonna die..
+
+---
+
 
 [At the party](atParty.md)
 
