@@ -10,8 +10,9 @@ ____
  * _You_: "Hello?"
  * _Boyfriend/Girlfriend_: "Heard you were going to the party."
  * _You_: "Thanks for the hello."
- * _Boyfriend/Girlfriend_: "You know how wild it gets out there, I just dont want anything to happen, if something were to happen, I'm gonna be real upset because I'm always supposed to treat you like a parent! Don't go!"
-
+ * _Boyfriend/Girlfriend_: "You know how wild it gets out there, I just dont want anything to happen, if something were to happen, I'm gonna be real upset because I'm always supposed to treat you like a parent! Don't go!"    
+ *
+![couple yelling](couple.jpg)
 ----
 
 What do you do?

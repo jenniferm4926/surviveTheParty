@@ -15,7 +15,8 @@
  * _You_: "Your version of quick and easy, is a quick and easy way to get into jail."
  * _Bestfriend_: "Wow, look at you, you know me so well!"
  * _You_: "Sneak in..?"
- * _Bestfriend_: "Yep, are you down, again?"
+ * _Bestfriend_: "Yep, are you down, again?"  
+ ![sneak in pic](hiding.jpg
  
 ["You got a million other friends you can bring, I'll stay here, Thank You"](noSneakIn.md)   
 ["I'm in."](sneakIn.md)

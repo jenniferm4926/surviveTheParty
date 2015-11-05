@@ -10,7 +10,7 @@
 
 ---
 #### Awkward. But you go anyway, as your friend comes and picks you up, your friend speeds to the party as you assure to yourself that your not gonna die..
-
+![car friend pic](girlncar.jpg)
 ---
 
 

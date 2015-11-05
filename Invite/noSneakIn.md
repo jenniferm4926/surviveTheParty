@@ -8,7 +8,8 @@
 
 ---
 
-####You take another sigh before watching your show and dipping into your bed comfortable..
+####You take another sigh before watching your show and dipping into your bed comfortable..  
+!bed pic](bedd.jpeg)
 
 #### Since you stood home, you have nothing else to do for the interaction but enjoy the show, would you like to return back to the question and answer it for a better experience?
 
