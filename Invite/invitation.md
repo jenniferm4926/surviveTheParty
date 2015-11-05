@@ -2,4 +2,4 @@
  
  [Accept](acceptinvite.md)
  
- [Deny]()
+ [Deny](denyInvite.md)
