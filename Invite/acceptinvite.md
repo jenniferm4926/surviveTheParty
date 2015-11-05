@@ -16,6 +16,6 @@ ____
 
 What do you do?
 
-["I'll be fine.. Don't worry about me."]() 
+["I'll be fine.. Don't worry about me."](dontWorryPartner.md) 
 
 ["I guess you're right"]()
