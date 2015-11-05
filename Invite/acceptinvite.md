@@ -18,4 +18,4 @@ What do you do?
 
 ["I'll be fine.. Don't worry about me."](dontWorryPartner.md) 
 
-["I guess you're right"]()
+["I guess you're right"](noSneakIn.md)
