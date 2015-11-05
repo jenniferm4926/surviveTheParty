@@ -14,8 +14,13 @@ _You_: "What do you wantttttt?"
  * _You_: "Um, excuse me?"
  * _Bestfriend_: "The party."
  * _You_: "Listen, you're kinda calling me in the middle of class, so mind making this short and sweet before I get hollered at?"
- * 
+ * _Bestfriend_: "Okay? I'm in Lunch and you dont see me hollering."
+ * _You_: "Whatever."
+ * _Bestfriend_: "Are you down?"
+ * _You_:"For what?"
+ * _Bestfriend_:"THE PARTY. ARE YOU DOWN YES OR NO?"
  
- [Accept](acceptinvite.md)
  
- [Deny](denyInvite.md)
+ ["Sure, why not? I have nothing better to do"](acceptinvite.md)
+ 
+ ["I dont feel like going, you can go alone"](denyInvite.md)
